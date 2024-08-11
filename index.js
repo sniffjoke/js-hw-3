@@ -23,4 +23,20 @@
 
 // console.log(extractPath(strUrl, 18))
 
+// let numbers = [1, 2, 3, 4, 5];
+// function removeElement(arr, index) {
+//     arr.splice(index, 1);
+//     return arr
+// }
+// console.log(removeElement(numbers, 2));
+
+// let numbers = [1, 2, 4, 5];
+
+// function insertElement(arr, index, element) {
+//     arr.splice(index, 0, element)
+//     return arr
+// }
+
+// console.log(insertElement(numbers, 2, 3))
+
 
